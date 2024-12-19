@@ -2,7 +2,7 @@
 
 ![Codewars](https://github.r2v.ch/codewars?user=SarangPKarun)
 
-[![Leetcode Stats](https://leetcode.com/u/DtBEtI3Hg9/)](https://leetcode.com/u/DtBEtI3Hg9/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/DtBEtI3Hg9)](https://leetcode.com/u/DtBEtI3Hg9/)
 
 
 <!--
