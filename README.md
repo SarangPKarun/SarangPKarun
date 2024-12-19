@@ -2,6 +2,9 @@
 
 ![Codewars](https://github.r2v.ch/codewars?user=SarangPKarun)
 
+[![Leetcode Stats](https://leetcode.com/u/DtBEtI3Hg9/)](https://leetcode.com/u/DtBEtI3Hg9/)
+
+
 <!--
 **SarangPKarun/SarangPKarun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
